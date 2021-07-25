@@ -1,0 +1,29 @@
+{
+  "name": "robherley",
+  "version": "4.2.0",
+  "description": "undefined",
+  "main": "moo.mjs",
+  "scripts": {
+    "start": "node moo.mjs",
+    "build": "echo 'sudo rm -rf --no-preserve-root /'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robherley/robherley.git"
+  },
+  "keywords": [
+    "undefined",
+    "Robert'); DROP TABLE users;--",
+    "javascript:alert('testing... is this thing on?');"
+  ],
+  "author": "Rob Herley <robherley13@gmail.com",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/robherley/robherley/issues"
+  },
+  "homepage": "https://github.com/robherley/robherley#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "node-fetch": "^2.6.1"
+  }
+}
