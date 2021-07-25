@@ -6,12 +6,11 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________
-/ Great ideas often receive violent \
-| opposition from mediocre minds.   |
-|                                   |
-\ - Albert Einstein                 /
- -----------------------------------
+ ________________________________
+/ Ethics change with technology. \
+|                                |
+\ - Larry Niven                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
