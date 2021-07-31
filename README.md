@@ -6,11 +6,13 @@
 
 <!-- STARTCOW -->
 ```
- ________________________________
-/ Ethics change with technology. \
-|                                |
-\ - Larry Niven                  /
- --------------------------------
+ ____________________________________________
+/ Once a new technology rolls over you, if   \
+| you’re not part of the steamroller, you’re |
+| part of the road.                          |
+|                                            |
+\ - Stewart Brand                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
