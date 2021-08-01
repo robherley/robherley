@@ -6,13 +6,12 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Once a new technology rolls over you, if   \
-| you’re not part of the steamroller, you’re |
-| part of the road.                          |
-|                                            |
-\ - Stewart Brand                            /
- --------------------------------------------
+ ___________________________________________
+/ We are stuck with technology when what we \
+| really want is just stuff that works.     |
+|                                           |
+\ - Douglas Adams                           /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
