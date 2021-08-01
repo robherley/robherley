@@ -22,6 +22,13 @@ const readme = await fs.promises.readFile(filepath, {
 const START_TAG = "<!-- STARTCOW -->";
 const END_TAG = "<!-- ENDCOW -->";
 const GUARD_MATCH = new RegExp(String.raw`${START_TAG}[\s\S]*?${END_TAG}`);
-const withBlocks = [START_TAG, "```", cow, "```", END_TAG].join("\n");
+const withBlocks = [
+  START_TAG,
+  "```",
+  cow,
+  "```",
+  `<sub>Updated at ${new Date().toISOString()}, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>`,
+  END_TAG
+].join("\n");
 const readmeWithCow = readme.replace(GUARD_MATCH, withBlocks);
 await fs.promises.writeFile(filepath, readmeWithCow);
