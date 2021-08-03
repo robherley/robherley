@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ________________________________________
-/ It’s supposed to be automatic, but     \
-| actually you have to push this button. |
-|                                        |
-\ - John Brunner                         /
- ----------------------------------------
+ ____________________________________________
+/ Just because something doesn’t do what you \
+| planned it to do doesn’t mean it’s         |
+| useless.                                   |
+|                                            |
+\ - Thomas Edison                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-02T04:40:44.659Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-03T04:40:31.666Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
