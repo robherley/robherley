@@ -7,11 +7,10 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ Just because something doesn’t do what you \
-| planned it to do doesn’t mean it’s         |
-| useless.                                   |
+/ Technology… the knack of so arranging the  \
+| world that we don’t have to experience it. |
 |                                            |
-\ - Thomas Edison                            /
+\ - Max Frisch                               /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -19,5 +18,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-03T04:40:31.666Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-04T04:40:58.905Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
