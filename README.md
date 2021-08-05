@@ -7,10 +7,11 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ Technology… the knack of so arranging the  \
-| world that we don’t have to experience it. |
+/ The real danger is not that computers will \
+| begin to think like men, but that men will |
+| begin to think like computers.             |
 |                                            |
-\ - Max Frisch                               /
+\ - Sydney J. Harris                         /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -18,5 +19,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-04T04:40:58.905Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-05T04:41:00.456Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
