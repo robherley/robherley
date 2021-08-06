@@ -6,18 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The real danger is not that computers will \
-| begin to think like men, but that men will |
-| begin to think like computers.             |
-|                                            |
-\ - Sydney J. Harris                         /
- --------------------------------------------
+ ____________________________________
+/ The human spirit must prevail over \
+| technology.                        |
+|                                    |
+\ - Albert Einstein                  /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-05T04:41:00.456Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-06T04:41:15.140Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
