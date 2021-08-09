@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Technology… the knack of so arranging the  \
-| world that we don’t have to experience it. |
-|                                            |
-\ - Max Frisch                               /
- --------------------------------------------
+ ___________________________________________
+/ TV and the Internet are good because they \
+| keep stupid people from spending too much |
+| time out in public.                       |
+|                                           |
+\ - Douglas Coupland                        /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-08T04:40:06.086Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-09T04:40:29.786Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
