@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ All this modern technology just makes \
-| people try to do everything at once.  |
-|                                       |
-\ - Bill Watterson                      /
- ---------------------------------------
+ ____________________________________________
+/ Technological progress has merely provided \
+| us with more efficient means for going     |
+| backwards.                                 |
+|                                            |
+\ - Aldous Huxley                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-12T04:40:30.573Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-13T04:41:29.943Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
