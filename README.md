@@ -6,18 +6,21 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Technological progress has merely provided \
-| us with more efficient means for going     |
-| backwards.                                 |
-|                                            |
-\ - Aldous Huxley                            /
- --------------------------------------------
+ __________________________________________
+/ Technology frightens me to death. It’s   \
+| designed by engineers to impress other   |
+| engineers. And they always come with     |
+| instruction booklets that are written by |
+| engineers for other engineers — which is |
+| why almost no technology ever works.     |
+|                                          |
+\ - John Cleese                            /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-13T04:41:29.943Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-14T04:40:18.249Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
