@@ -6,21 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ Technology frightens me to death. It’s   \
-| designed by engineers to impress other   |
-| engineers. And they always come with     |
-| instruction booklets that are written by |
-| engineers for other engineers — which is |
-| why almost no technology ever works.     |
-|                                          |
-\ - John Cleese                            /
- ------------------------------------------
+ ____________________________________
+/ The human spirit must prevail over \
+| technology.                        |
+|                                    |
+\ - Albert Einstein                  /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-14T04:40:18.249Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-15T04:40:34.742Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
