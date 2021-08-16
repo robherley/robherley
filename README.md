@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________
-/ The human spirit must prevail over \
-| technology.                        |
-|                                    |
-\ - Albert Einstein                  /
- ------------------------------------
+ _______________________________________
+/ Technology is teaching us to be human \
+| again.                                |
+|                                       |
+\ - Simon Mainwaring                    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-15T04:40:34.742Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-16T04:40:38.713Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
