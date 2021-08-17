@@ -6,17 +6,20 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ Technology is teaching us to be human \
-| again.                                |
-|                                       |
-\ - Simon Mainwaring                    /
- ---------------------------------------
+ ____________________________________________
+/ This is the whole point of technology. It  \
+| creates an appetite for immortality on the |
+| one hand. It threatens universal           |
+| extinction on the other. Technology is     |
+| lust removed from nature.                  |
+|                                            |
+\ - Don DeLillo                              /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-16T04:40:38.713Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-17T04:40:52.839Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
