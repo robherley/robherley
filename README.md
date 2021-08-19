@@ -6,17 +6,19 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________
-/ Great ideas often receive violent \
-| opposition from mediocre minds.   |
-|                                   |
-\ - Albert Einstein                 /
- -----------------------------------
+ ___________________________________________
+/ I think that novels that leave out        \
+| technology misrepresent life as badly as  |
+| Victorians misrepresented life by leaving |
+| out sex.                                  |
+|                                           |
+\ - Kurt Vonnegut                           /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-18T04:41:17.723Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-19T04:41:01.960Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
