@@ -7,9 +7,12 @@
 <!-- STARTCOW -->
 ```
  ___________________________________________
-/ Technology has to be invented or adopted. \
+/ I think that novels that leave out        \
+| technology misrepresent life as badly as  |
+| Victorians misrepresented life by leaving |
+| out sex.                                  |
 |                                           |
-\ - Jared Diamond                           /
+\ - Kurt Vonnegut                           /
  -------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -17,5 +20,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-20T04:42:41.261Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-21T04:40:35.428Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
