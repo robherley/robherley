@@ -6,19 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ I think that novels that leave out        \
-| technology misrepresent life as badly as  |
-| Victorians misrepresented life by leaving |
-| out sex.                                  |
-|                                           |
-\ - Kurt Vonnegut                           /
- -------------------------------------------
+ ____________________________________________
+/ The real danger is not that computers will \
+| begin to think like men, but that men will |
+| begin to think like computers.             |
+|                                            |
+\ - Sydney J. Harris                         /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-21T04:40:35.428Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-22T04:40:41.884Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
