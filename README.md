@@ -6,18 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The real danger is not that computers will \
-| begin to think like men, but that men will |
-| begin to think like computers.             |
-|                                            |
-\ - Sydney J. Harris                         /
- --------------------------------------------
+ ___________________________________________
+/ The ultimate promise of technology is to  \
+| make us master of a world that we command |
+| by the push of a button.                  |
+|                                           |
+\ - Volker Grassmuck                        /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-22T04:40:41.884Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-23T04:41:13.122Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
