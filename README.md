@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ Computers are like bikinis. They save \
-| people a lot of guesswork.            |
-|                                       |
-\ - Sam Ewing                           /
- ---------------------------------------
+ _____________________________________
+/ The great myth of our times is that \
+| technology is communication.        |
+|                                     |
+\ - Libby Larsen                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-25T04:41:03.783Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-25T14:23:31.593Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
