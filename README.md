@@ -6,18 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ One machine can do the work of fifty     \
-| ordinary men. No machine can do the work |
-| of one extraordinary man.                |
-|                                          |
-\ - Elbert Hubbard                         /
- ------------------------------------------
+ _______________________________________
+/ Computers are like bikinis. They save \
+| people a lot of guesswork.            |
+|                                       |
+\ - Sam Ewing                           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-24T04:40:51.369Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-25T04:41:03.783Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
