@@ -7,10 +7,11 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ Technology is the campfire around which we \
-| tell our stories.                          |
+/ Communications tools don’t get socially    \
+| interesting until they get technologically |
+| boring.                                    |
 |                                            |
-\ - Laurie Anderson                          /
+\ - Clay Shirky                              /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -18,5 +19,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-26T04:40:46.708Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-27T04:40:54.791Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
