@@ -6,18 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Communications tools don’t get socially    \
-| interesting until they get technologically |
-| boring.                                    |
-|                                            |
-\ - Clay Shirky                              /
- --------------------------------------------
+ ______________________________________
+/ Technology made large populations    \
+| possible; large populations now make |
+| technology indispensable.            |
+|                                      |
+\ - Joseph Wood Krutch                 /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-27T04:40:54.791Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-28T04:40:20.829Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
