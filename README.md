@@ -6,18 +6,22 @@
 
 <!-- STARTCOW -->
 ```
- ______________________________________
-/ Technology made large populations    \
-| possible; large populations now make |
-| technology indispensable.            |
-|                                      |
-\ - Joseph Wood Krutch                 /
- --------------------------------------
+ ___________________________________________
+/ As a technology, the book is like a       \
+| hammer. That is to say, it is perfect: a  |
+| tool ideally suited to its task. Hammers  |
+| can be tweaked and varied but will never  |
+| go obsolete. Even when builders pound     |
+| nails by the thousand with pneumatic nail |
+| guns, every household needs a hammer.     |
+|                                           |
+\ - James Gleick                            /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-28T04:40:20.829Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-29T04:40:24.318Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
