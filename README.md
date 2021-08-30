@@ -6,18 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ Programs must be written for people to   \
-| read, and only incidentally for machines |
-| to execute.                              |
-|                                          |
-\ - Hal Abelson                            /
- ------------------------------------------
+ ____________________________________________
+/ Once a new technology rolls over you, if   \
+| you’re not part of the steamroller, you’re |
+| part of the road.                          |
+|                                            |
+\ - Stewart Brand                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-30T04:40:55.997Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-30T19:00:13.588Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
