@@ -6,18 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Once a new technology rolls over you, if   \
-| you’re not part of the steamroller, you’re |
-| part of the road.                          |
-|                                            |
-\ - Stewart Brand                            /
- --------------------------------------------
+ ___________________________________________
+/ The ultimate promise of technology is to  \
+| make us master of a world that we command |
+| by the push of a button.                  |
+|                                           |
+\ - Volker Grassmuck                        /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-30T19:00:13.588Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-30T19:03:32.293Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
