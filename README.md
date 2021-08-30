@@ -6,22 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ As a technology, the book is like a       \
-| hammer. That is to say, it is perfect: a  |
-| tool ideally suited to its task. Hammers  |
-| can be tweaked and varied but will never  |
-| go obsolete. Even when builders pound     |
-| nails by the thousand with pneumatic nail |
-| guns, every household needs a hammer.     |
-|                                           |
-\ - James Gleick                            /
- -------------------------------------------
+ __________________________________________
+/ Programs must be written for people to   \
+| read, and only incidentally for machines |
+| to execute.                              |
+|                                          |
+\ - Hal Abelson                            /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-29T04:40:24.318Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-30T04:40:55.997Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
