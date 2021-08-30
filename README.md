@@ -6,18 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ The ultimate promise of technology is to  \
-| make us master of a world that we command |
-| by the push of a button.                  |
-|                                           |
-\ - Volker Grassmuck                        /
- -------------------------------------------
+ ____________________________________________
+/ This is why I loved technology: if you     \
+| used it right, it could give you power and |
+| privacy.                                   |
+|                                            |
+\ - Cory Doctorow                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-30T19:03:32.293Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-30T19:16:37.768Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
