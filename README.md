@@ -7,11 +7,13 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ This is why I loved technology: if you     \
-| used it right, it could give you power and |
-| privacy.                                   |
+/ Imagination is more important than         \
+| knowledge. For while knowledge defines all |
+| we currently know and understand,          |
+| imagination points to all we might yet     |
+| discover and create.                       |
 |                                            |
-\ - Cory Doctorow                            /
+\ - Albert Einstein                          /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -19,5 +21,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-30T19:16:37.768Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-31T04:40:38.155Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
