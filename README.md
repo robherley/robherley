@@ -7,13 +7,11 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ Imagination is more important than         \
-| knowledge. For while knowledge defines all |
-| we currently know and understand,          |
-| imagination points to all we might yet     |
-| discover and create.                       |
+/ Technological progress has merely provided \
+| us with more efficient means for going     |
+| backwards.                                 |
 |                                            |
-\ - Albert Einstein                          /
+\ - Aldous Huxley                            /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -21,5 +19,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-31T04:40:38.155Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-08-31T13:10:50.406Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
