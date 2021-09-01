@@ -6,18 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Technological progress has merely provided \
-| us with more efficient means for going     |
-| backwards.                                 |
-|                                            |
-\ - Aldous Huxley                            /
- --------------------------------------------
+ __________________________________________
+/ One machine can do the work of fifty     \
+| ordinary men. No machine can do the work |
+| of one extraordinary man.                |
+|                                          |
+\ - Elbert Hubbard                         /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-08-31T13:10:50.406Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-01T04:41:26.343Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
