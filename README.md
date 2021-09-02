@@ -7,11 +7,10 @@
 <!-- STARTCOW -->
 ```
  __________________________________________
-/ One machine can do the work of fifty     \
-| ordinary men. No machine can do the work |
-| of one extraordinary man.                |
+/ It is through science that we prove, but \
+| through intuition that we discover.      |
 |                                          |
-\ - Elbert Hubbard                         /
+\ - Henri Poincaré                         /
  ------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -19,5 +18,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-01T04:41:26.343Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-02T04:38:26.462Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
