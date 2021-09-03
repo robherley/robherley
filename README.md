@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ It is through science that we prove, but \
-| through intuition that we discover.      |
-|                                          |
-\ - Henri Poincaré                         /
- ------------------------------------------
+ _________________________________________
+/ Technology… is a queer thing. It brings \
+| you great gifts with one hand, and it   |
+| stabs you in the back with the other.   |
+|                                         |
+\ - Carrie Snow                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-02T04:38:26.462Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-03T04:41:17.418Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
