@@ -6,18 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ TV and the Internet are good because they \
-| keep stupid people from spending too much |
-| time out in public.                       |
-|                                           |
-\ - Douglas Coupland                        /
- -------------------------------------------
+ _______________________________________
+/ All this modern technology just makes \
+| people try to do everything at once.  |
+|                                       |
+\ - Bill Watterson                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-04T04:41:11.595Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-05T04:40:55.917Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
