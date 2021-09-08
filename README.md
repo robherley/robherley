@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ Computers are useless. They can only give \
-| you answers.                              |
-|                                           |
-\ - Pablo Picasso                           /
- -------------------------------------------
+ __________________________________________
+/ One machine can do the work of fifty     \
+| ordinary men. No machine can do the work |
+| of one extraordinary man.                |
+|                                          |
+\ - Elbert Hubbard                         /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-07T04:41:04.227Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-08T04:41:20.797Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
