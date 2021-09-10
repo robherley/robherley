@@ -7,10 +7,9 @@
 <!-- STARTCOW -->
 ```
  _______________________________________
-/ All this modern technology just makes \
-| people try to do everything at once.  |
+/ So much technology, so little talent. \
 |                                       |
-\ - Bill Watterson                      /
+\ - Vernor Vinge                        /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -18,5 +17,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-09T04:41:23.684Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-10T04:41:11.850Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
