@@ -6,16 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ So much technology, so little talent. \
-|                                       |
-\ - Vernor Vinge                        /
- ---------------------------------------
+ ___________________________________________
+/ The ultimate promise of technology is to  \
+| make us master of a world that we command |
+| by the push of a button.                  |
+|                                           |
+\ - Volker Grassmuck                        /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-10T04:41:11.850Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-11T04:40:45.381Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
