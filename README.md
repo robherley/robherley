@@ -6,17 +6,19 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Technology is the campfire around which we \
-| tell our stories.                          |
-|                                            |
-\ - Laurie Anderson                          /
- --------------------------------------------
+ ___________________________________________
+/ I think that novels that leave out        \
+| technology misrepresent life as badly as  |
+| Victorians misrepresented life by leaving |
+| out sex.                                  |
+|                                           |
+\ - Kurt Vonnegut                           /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-12T04:40:54.665Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-13T04:41:13.035Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
