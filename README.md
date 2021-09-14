@@ -6,19 +6,16 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ I think that novels that leave out        \
-| technology misrepresent life as badly as  |
-| Victorians misrepresented life by leaving |
-| out sex.                                  |
-|                                           |
-\ - Kurt Vonnegut                           /
- -------------------------------------------
+ ________________________________
+/ Ethics change with technology. \
+|                                |
+\ - Larry Niven                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-13T04:41:13.035Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-14T04:40:28.197Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
