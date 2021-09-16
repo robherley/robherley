@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ Humanity is acquiring all the right   \
-| technology for all the wrong reasons. |
-|                                       |
-\ - Buckminster Fuller                  /
- ---------------------------------------
+ ____________________________________________
+/ The most technologically efficient machine \
+| that man has ever invented is the book.    |
+|                                            |
+\ - Northrop Frye                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-15T04:40:22.712Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-16T04:38:02.354Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
