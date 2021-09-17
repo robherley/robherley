@@ -7,10 +7,11 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ The most technologically efficient machine \
-| that man has ever invented is the book.    |
+/ This is why I loved technology: if you     \
+| used it right, it could give you power and |
+| privacy.                                   |
 |                                            |
-\ - Northrop Frye                            /
+\ - Cory Doctorow                            /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -18,5 +19,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-16T04:38:02.354Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-17T04:40:00.710Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
