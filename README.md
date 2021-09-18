@@ -6,18 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ This is why I loved technology: if you     \
-| used it right, it could give you power and |
-| privacy.                                   |
-|                                            |
-\ - Cory Doctorow                            /
- --------------------------------------------
+ ________________________________________
+/ It’s supposed to be automatic, but     \
+| actually you have to push this button. |
+|                                        |
+\ - John Brunner                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-17T04:40:00.710Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-18T04:39:41.932Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
