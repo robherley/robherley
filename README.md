@@ -6,16 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ________________________________
-/ Ethics change with technology. \
-|                                |
-\ - Larry Niven                  /
- --------------------------------
+ _______________________________________
+/ Computers are like bikinis. They save \
+| people a lot of guesswork.            |
+|                                       |
+\ - Sam Ewing                           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-19T04:39:40.996Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-20T04:40:22.242Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
