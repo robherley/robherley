@@ -6,22 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ As a technology, the book is like a       \
-| hammer. That is to say, it is perfect: a  |
-| tool ideally suited to its task. Hammers  |
-| can be tweaked and varied but will never  |
-| go obsolete. Even when builders pound     |
-| nails by the thousand with pneumatic nail |
-| guns, every household needs a hammer.     |
-|                                           |
-\ - James Gleick                            /
- -------------------------------------------
+ ____________________________________________
+/ The real danger is not that computers will \
+| begin to think like men, but that men will |
+| begin to think like computers.             |
+|                                            |
+\ - Sydney J. Harris                         /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-21T04:40:40.540Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-22T04:40:13.050Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
