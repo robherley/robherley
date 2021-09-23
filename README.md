@@ -6,18 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The real danger is not that computers will \
-| begin to think like men, but that men will |
-| begin to think like computers.             |
-|                                            |
-\ - Sydney J. Harris                         /
- --------------------------------------------
+ ___________________________________________
+/ We are stuck with technology when what we \
+| really want is just stuff that works.     |
+|                                           |
+\ - Douglas Adams                           /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-22T04:40:13.050Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-23T04:40:58.897Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
