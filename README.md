@@ -7,15 +7,11 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ First we thought the PC was a calculator.  \
-| Then we found out how to turn numbers into |
-| letters with ASCII — and we thought it was |
-| a typewriter. Then we discovered graphics, |
-| and we thought it was a television. With   |
-| the World Wide Web, we’ve realized it’s a  |
-| brochure.                                  |
+/ Once a new technology rolls over you, if   \
+| you’re not part of the steamroller, you’re |
+| part of the road.                          |
 |                                            |
-\ - Douglas Adams                            /
+\ - Stewart Brand                            /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -23,5 +19,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-24T04:40:13.813Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-25T04:39:38.764Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
