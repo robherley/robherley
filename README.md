@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________
-/ Great ideas often receive violent \
-| opposition from mediocre minds.   |
-|                                   |
-\ - Albert Einstein                 /
- -----------------------------------
+ ____________________________________
+/ The human spirit must prevail over \
+| technology.                        |
+|                                    |
+\ - Albert Einstein                  /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-26T04:39:42.671Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-27T04:40:16.700Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
