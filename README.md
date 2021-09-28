@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________
-/ The human spirit must prevail over \
-| technology.                        |
-|                                    |
-\ - Albert Einstein                  /
- ------------------------------------
+ ______________________________________
+/ Technology made large populations    \
+| possible; large populations now make |
+| technology indispensable.            |
+|                                      |
+\ - Joseph Wood Krutch                 /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-27T04:40:16.700Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-28T04:38:26.533Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
