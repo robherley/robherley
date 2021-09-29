@@ -6,19 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The greatest achievement of humanity is    \
-| not its works of art, science, or          |
-| technology, but the recognition of its own |
-| dysfunction.                               |
-|                                            |
-\ - Eckhart Tolle                            /
- --------------------------------------------
+ ___________________________________________
+/ If you can't explain it simply, you don't \
+| understand it well enough.                |
+|                                           |
+\ - Albert Einstein                         /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-28T20:57:27.194Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-29T04:39:44.252Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
