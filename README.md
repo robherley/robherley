@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ If you can't explain it simply, you don't \
-| understand it well enough.                |
-|                                           |
-\ - Albert Einstein                         /
- -------------------------------------------
+ ____________________________________________
+/ The art challenges the technology, and the \
+| technology inspires the art.               |
+|                                            |
+\ - John Lasseter                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-09-29T04:39:44.252Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-09-30T04:39:41.000Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
