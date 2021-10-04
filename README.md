@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ Computers are like bikinis. They save \
-| people a lot of guesswork.            |
-|                                       |
-\ - Sam Ewing                           /
- ---------------------------------------
+ __________________________________________
+/ The real problem is not whether machines \
+| think but whether men do.                |
+|                                          |
+\ - B. F. Skinner                          /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-04T04:39:50.729Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-04T15:26:50.836Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
