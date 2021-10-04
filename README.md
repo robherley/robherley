@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ The real problem is not whether machines \
-| think but whether men do.                |
-|                                          |
-\ - B. F. Skinner                          /
- ------------------------------------------
+ ____________________________________________
+/ The most technologically efficient machine \
+| that man has ever invented is the book.    |
+|                                            |
+\ - Northrop Frye                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-04T15:26:50.836Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-04T20:44:40.510Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
