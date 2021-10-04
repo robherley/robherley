@@ -6,19 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ I think that novels that leave out        \
-| technology misrepresent life as badly as  |
-| Victorians misrepresented life by leaving |
-| out sex.                                  |
-|                                           |
-\ - Kurt Vonnegut                           /
- -------------------------------------------
+ _______________________________________
+/ Computers are like bikinis. They save \
+| people a lot of guesswork.            |
+|                                       |
+\ - Sam Ewing                           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-03T04:39:12.065Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-04T04:39:50.729Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
