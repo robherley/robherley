@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The most technologically efficient machine \
-| that man has ever invented is the book.    |
-|                                            |
-\ - Northrop Frye                            /
- --------------------------------------------
+ __________________________________________
+/ One machine can do the work of fifty     \
+| ordinary men. No machine can do the work |
+| of one extraordinary man.                |
+|                                          |
+\ - Elbert Hubbard                         /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-05T04:40:20.772Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-06T04:39:13.513Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
