@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ All this modern technology just makes \
-| people try to do everything at once.  |
-|                                       |
-\ - Bill Watterson                      /
- ---------------------------------------
+ ___________________________________________
+/ We are stuck with technology when what we \
+| really want is just stuff that works.     |
+|                                           |
+\ - Douglas Adams                           /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-06T21:30:21.469Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-06T21:36:09.776Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
