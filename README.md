@@ -6,17 +6,16 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ The real problem is not whether machines \
-| think but whether men do.                |
-|                                          |
-\ - B. F. Skinner                          /
- ------------------------------------------
+ _______________________________________
+/ So much technology, so little talent. \
+|                                       |
+\ - Vernor Vinge                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-06T19:12:37.468Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-06T19:14:04.011Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
