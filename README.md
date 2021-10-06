@@ -6,18 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Once a new technology rolls over you, if   \
-| you’re not part of the steamroller, you’re |
-| part of the road.                          |
-|                                            |
-\ - Stewart Brand                            /
- --------------------------------------------
+ _______________________________________
+/ Computers are like bikinis. They save \
+| people a lot of guesswork.            |
+|                                       |
+\ - Sam Ewing                           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-06T21:28:31.258Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-06T21:29:25.166Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
