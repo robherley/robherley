@@ -6,17 +6,19 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ We are stuck with technology when what we \
-| really want is just stuff that works.     |
-|                                           |
-\ - Douglas Adams                           /
- -------------------------------------------
+ ____________________________________________
+/ The greatest achievement of humanity is    \
+| not its works of art, science, or          |
+| technology, but the recognition of its own |
+| dysfunction.                               |
+|                                            |
+\ - Eckhart Tolle                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-06T21:36:09.776Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-06T21:36:57.920Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
