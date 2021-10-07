@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ If you can't explain it simply, you don't \
-| understand it well enough.                |
-|                                           |
-\ - Albert Einstein                         /
- -------------------------------------------
+ _______________________________________
+/ Computers are like bikinis. They save \
+| people a lot of guesswork.            |
+|                                       |
+\ - Sam Ewing                           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-06T21:38:42.167Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-07T04:40:05.636Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
