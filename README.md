@@ -6,17 +6,22 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ Computers are like bikinis. They save \
-| people a lot of guesswork.            |
-|                                       |
-\ - Sam Ewing                           /
- ---------------------------------------
+ ___________________________________________
+/ As a technology, the book is like a       \
+| hammer. That is to say, it is perfect: a  |
+| tool ideally suited to its task. Hammers  |
+| can be tweaked and varied but will never  |
+| go obsolete. Even when builders pound     |
+| nails by the thousand with pneumatic nail |
+| guns, every household needs a hammer.     |
+|                                           |
+\ - James Gleick                            /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-07T04:40:05.636Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-08T04:39:49.498Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
