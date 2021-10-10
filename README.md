@@ -6,18 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Once a new technology rolls over you, if   \
-| you’re not part of the steamroller, you’re |
-| part of the road.                          |
-|                                            |
-\ - Stewart Brand                            /
- --------------------------------------------
+ ___________________________________________
+/ We are stuck with technology when what we \
+| really want is just stuff that works.     |
+|                                           |
+\ - Douglas Adams                           /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-09T04:39:21.475Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-10T04:39:30.880Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
