@@ -6,17 +6,22 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ We are stuck with technology when what we \
-| really want is just stuff that works.     |
-|                                           |
-\ - Douglas Adams                           /
- -------------------------------------------
+ ____________________________________________
+/ First we thought the PC was a calculator.  \
+| Then we found out how to turn numbers into |
+| letters with ASCII — and we thought it was |
+| a typewriter. Then we discovered graphics, |
+| and we thought it was a television. With   |
+| the World Wide Web, we’ve realized it’s a  |
+| brochure.                                  |
+|                                            |
+\ - Douglas Adams                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-10T04:39:30.880Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-11T04:39:30.286Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
