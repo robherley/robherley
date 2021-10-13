@@ -6,19 +6,20 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ I think that novels that leave out        \
-| technology misrepresent life as badly as  |
-| Victorians misrepresented life by leaving |
-| out sex.                                  |
-|                                           |
-\ - Kurt Vonnegut                           /
- -------------------------------------------
+ ____________________________________________
+/ Technology is nothing. What’s important is \
+| that you have a faith in people, that      |
+| they’re basically good and smart, and if   |
+| you give them tools, they’ll do wonderful  |
+| things with them.                          |
+|                                            |
+\ - Steve Jobs                               /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-12T04:39:47.161Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-13T04:39:58.131Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
