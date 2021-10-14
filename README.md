@@ -7,13 +7,10 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ Technology is nothing. What’s important is \
-| that you have a faith in people, that      |
-| they’re basically good and smart, and if   |
-| you give them tools, they’ll do wonderful  |
-| things with them.                          |
+/ It has become appallingly obvious that our \
+| technology has exceeded our humanity.      |
 |                                            |
-\ - Steve Jobs                               /
+\ - Albert Einstein                          /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -21,5 +18,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-13T04:39:58.131Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-14T04:39:50.288Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
