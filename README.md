@@ -6,20 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Technology is nothing. What’s important is \
-| that you have a faith in people, that      |
-| they’re basically good and smart, and if   |
-| you give them tools, they’ll do wonderful  |
-| things with them.                          |
-|                                            |
-\ - Steve Jobs                               /
- --------------------------------------------
+ ___________________________________
+/ Great ideas often receive violent \
+| opposition from mediocre minds.   |
+|                                   |
+\ - Albert Einstein                 /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-15T04:40:10.036Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-16T04:39:34.604Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
