@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ The real problem is not whether machines \
-| think but whether men do.                |
-|                                          |
-\ - B. F. Skinner                          /
- ------------------------------------------
+ ___________________________________________
+/ Computers are useless. They can only give \
+| you answers.                              |
+|                                           |
+\ - Pablo Picasso                           /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-17T04:39:30.351Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-18T04:40:09.089Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
