@@ -6,17 +6,20 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ All this modern technology just makes \
-| people try to do everything at once.  |
-|                                       |
-\ - Bill Watterson                      /
- ---------------------------------------
+ ___________________________________________
+/ The problem with Google is you have 360   \
+| degrees of omnidirectional information on |
+| a linear basis, but the algorithms for    |
+| irony and ambiguity are not there. And    |
+| those are the algorithms of wisdom.       |
+|                                           |
+\ - William Hurt                            /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-21T04:40:52.142Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-22T04:40:43.523Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
