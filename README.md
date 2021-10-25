@@ -6,18 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- _________________________________________
-/ Technology… is a queer thing. It brings \
-| you great gifts with one hand, and it   |
-| stabs you in the back with the other.   |
-|                                         |
-\ - Carrie Snow                           /
- -----------------------------------------
+ _______________________________________
+/ Humanity is acquiring all the right   \
+| technology for all the wrong reasons. |
+|                                       |
+\ - Buckminster Fuller                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-24T04:39:57.745Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-25T04:40:17.040Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
