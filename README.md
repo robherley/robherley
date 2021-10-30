@@ -6,20 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Imagination is more important than         \
-| knowledge. For while knowledge defines all |
-| we currently know and understand,          |
-| imagination points to all we might yet     |
-| discover and create.                       |
-|                                            |
-\ - Albert Einstein                          /
- --------------------------------------------
+ ___________________________________
+/ Great ideas often receive violent \
+| opposition from mediocre minds.   |
+|                                   |
+\ - Albert Einstein                 /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-29T04:41:00.696Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-30T04:40:01.662Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
