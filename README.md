@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________
-/ Great ideas often receive violent \
-| opposition from mediocre minds.   |
-|                                   |
-\ - Albert Einstein                 /
- -----------------------------------
+ ____________________________________________
+/ The most technologically efficient machine \
+| that man has ever invented is the book.    |
+|                                            |
+\ - Northrop Frye                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-30T04:40:01.662Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-10-31T04:40:06.392Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
