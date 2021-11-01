@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The most technologically efficient machine \
-| that man has ever invented is the book.    |
-|                                            |
-\ - Northrop Frye                            /
- --------------------------------------------
+ ________________________________________
+/ It’s supposed to be automatic, but     \
+| actually you have to push this button. |
+|                                        |
+\ - John Brunner                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-10-31T04:40:06.392Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-01T04:41:01.248Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
