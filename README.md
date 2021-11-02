@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ________________________________________
-/ It’s supposed to be automatic, but     \
-| actually you have to push this button. |
-|                                        |
-\ - John Brunner                         /
- ----------------------------------------
+ _______________________________________
+/ All this modern technology just makes \
+| people try to do everything at once.  |
+|                                       |
+\ - Bill Watterson                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-01T04:41:01.248Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-02T04:40:48.112Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
