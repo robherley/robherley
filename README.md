@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ All this modern technology just makes \
-| people try to do everything at once.  |
-|                                       |
-\ - Bill Watterson                      /
- ---------------------------------------
+ ____________________________________________
+/ This is why I loved technology: if you     \
+| used it right, it could give you power and |
+| privacy.                                   |
+|                                            |
+\ - Cory Doctorow                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-02T04:40:48.112Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-03T04:40:45.784Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
