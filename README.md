@@ -7,13 +7,10 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ This is the whole point of technology. It  \
-| creates an appetite for immortality on the |
-| one hand. It threatens universal           |
-| extinction on the other. Technology is     |
-| lust removed from nature.                  |
+/ It has become appallingly obvious that our \
+| technology has exceeded our humanity.      |
 |                                            |
-\ - Don DeLillo                              /
+\ - Albert Einstein                          /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -21,5 +18,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-04T04:40:32.298Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-05T04:40:45.632Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
