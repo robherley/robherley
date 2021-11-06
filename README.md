@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ It has become appallingly obvious that our \
-| technology has exceeded our humanity.      |
-|                                            |
-\ - Albert Einstein                          /
- --------------------------------------------
+ _____________________________________
+/ The great myth of our times is that \
+| technology is communication.        |
+|                                     |
+\ - Libby Larsen                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-05T04:40:45.632Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-06T04:40:27.913Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
