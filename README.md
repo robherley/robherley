@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- _____________________________________
-/ The great myth of our times is that \
-| technology is communication.        |
-|                                     |
-\ - Libby Larsen                      /
- -------------------------------------
+ ___________________________________________
+/ Technology is anything that wasn’t around \
+| when you were born.                       |
+|                                           |
+\ - Man Ray                                 /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-06T04:40:27.913Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-07T04:39:59.539Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
