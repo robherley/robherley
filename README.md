@@ -7,10 +7,11 @@
 <!-- STARTCOW -->
 ```
  ___________________________________________
-/ Technology is anything that wasn’t around \
-| when you were born.                       |
+/ The ultimate promise of technology is to  \
+| make us master of a world that we command |
+| by the push of a button.                  |
 |                                           |
-\ - Man Ray                                 /
+\ - Volker Grassmuck                        /
  -------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -18,5 +19,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-07T04:39:59.539Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-08T04:40:52.143Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
