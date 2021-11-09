@@ -6,18 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ The ultimate promise of technology is to  \
-| make us master of a world that we command |
-| by the push of a button.                  |
-|                                           |
-\ - Volker Grassmuck                        /
- -------------------------------------------
+ ____________________________________________
+/ Technology is the campfire around which we \
+| tell our stories.                          |
+|                                            |
+\ - Laurie Anderson                          /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-08T04:40:52.143Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-09T04:40:56.157Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
