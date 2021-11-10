@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Technology is the campfire around which we \
-| tell our stories.                          |
-|                                            |
-\ - Laurie Anderson                          /
- --------------------------------------------
+ ____________________________________
+/ The human spirit must prevail over \
+| technology.                        |
+|                                    |
+\ - Albert Einstein                  /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-09T04:40:56.157Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-10T04:41:12.300Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
