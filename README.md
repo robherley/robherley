@@ -6,17 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ If you can't explain it simply, you don't \
-| understand it well enough.                |
-|                                           |
-\ - Albert Einstein                         /
- -------------------------------------------
+ __________________________________________
+/ It is through science that we prove, but \
+| through intuition that we discover.      |
+|                                          |
+\ - Henri Poincaré                         /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-15T04:41:15.184Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-16T04:40:56.309Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
