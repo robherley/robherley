@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ It is through science that we prove, but \
-| through intuition that we discover.      |
-|                                          |
-\ - Henri Poincaré                         /
- ------------------------------------------
+ ___________________________________________
+/ The ultimate promise of technology is to  \
+| make us master of a world that we command |
+| by the push of a button.                  |
+|                                           |
+\ - Volker Grassmuck                        /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-16T04:40:56.309Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-17T04:41:09.554Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
