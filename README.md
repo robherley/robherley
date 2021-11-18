@@ -7,11 +7,11 @@
 <!-- STARTCOW -->
 ```
  ___________________________________________
-/ The ultimate promise of technology is to  \
-| make us master of a world that we command |
-| by the push of a button.                  |
+/ TV and the Internet are good because they \
+| keep stupid people from spending too much |
+| time out in public.                       |
 |                                           |
-\ - Volker Grassmuck                        /
+\ - Douglas Coupland                        /
  -------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -19,5 +19,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-17T04:41:09.554Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-18T04:40:54.703Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
