@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________
-/ The human spirit must prevail over \
-| technology.                        |
-|                                    |
-\ - Albert Einstein                  /
- ------------------------------------
+ ____________________________________________
+/ Just because something doesn’t do what you \
+| planned it to do doesn’t mean it’s         |
+| useless.                                   |
+|                                            |
+\ - Thomas Edison                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-21T04:41:00.448Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-22T04:41:25.344Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
