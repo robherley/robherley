@@ -7,11 +7,13 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ The real danger is not that computers will \
-| begin to think like men, but that men will |
-| begin to think like computers.             |
+/ Imagination is more important than         \
+| knowledge. For while knowledge defines all |
+| we currently know and understand,          |
+| imagination points to all we might yet     |
+| discover and create.                       |
 |                                            |
-\ - Sydney J. Harris                         /
+\ - Albert Einstein                          /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -19,5 +21,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-25T04:41:42.074Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-26T04:41:23.099Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
