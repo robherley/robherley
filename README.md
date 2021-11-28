@@ -6,17 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ It is through science that we prove, but \
-| through intuition that we discover.      |
-|                                          |
-\ - Henri Poincaré                         /
- ------------------------------------------
+ ____________________________________________
+/ Communications tools don’t get socially    \
+| interesting until they get technologically |
+| boring.                                    |
+|                                            |
+\ - Clay Shirky                              /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-27T04:41:02.770Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-28T04:40:30.596Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
