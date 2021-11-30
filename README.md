@@ -6,16 +6,18 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ So much technology, so little talent. \
-|                                       |
-\ - Vernor Vinge                        /
- ---------------------------------------
+ __________________________________________
+/ Science and technology revolutionize our \
+| lives, but memory, tradition and myth    |
+| frame our response.                      |
+|                                          |
+\ - Arthur M. Schlesinger Jr.              /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-11-29T04:41:37.805Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-11-30T04:33:49.778Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
