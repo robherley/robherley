@@ -6,22 +6,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ First we thought the PC was a calculator.  \
-| Then we found out how to turn numbers into |
-| letters with ASCII — and we thought it was |
-| a typewriter. Then we discovered graphics, |
-| and we thought it was a television. With   |
-| the World Wide Web, we’ve realized it’s a  |
-| brochure.                                  |
-|                                            |
-\ - Douglas Adams                            /
- --------------------------------------------
+ ____________________________________
+/ The human spirit must prevail over \
+| technology.                        |
+|                                    |
+\ - Albert Einstein                  /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-01T04:42:17.496Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-02T04:41:31.893Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
