@@ -7,17 +7,20 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________
-/ The human spirit must prevail over \
-| technology.                        |
-|                                    |
-\ - Albert Einstein                  /
- ------------------------------------
+ ____________________________________________
+/ Imagination is more important than         \
+| knowledge. For while knowledge defines all |
+| we currently know and understand,          |
+| imagination points to all we might yet     |
+| discover and create.                       |
+|                                            |
+\ - Albert Einstein                          /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-02T04:41:31.893Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-03T04:41:43.542Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
