@@ -8,13 +8,10 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ Imagination is more important than         \
-| knowledge. For while knowledge defines all |
-| we currently know and understand,          |
-| imagination points to all we might yet     |
-| discover and create.                       |
+/ The art challenges the technology, and the \
+| technology inspires the art.               |
 |                                            |
-\ - Albert Einstein                          /
+\ - John Lasseter                            /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -22,5 +19,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-03T04:41:43.542Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-04T04:42:18.692Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
