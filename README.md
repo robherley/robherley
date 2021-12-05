@@ -7,17 +7,21 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The art challenges the technology, and the \
-| technology inspires the art.               |
-|                                            |
-\ - John Lasseter                            /
- --------------------------------------------
+ __________________________________________
+/ Technology frightens me to death. It’s   \
+| designed by engineers to impress other   |
+| engineers. And they always come with     |
+| instruction booklets that are written by |
+| engineers for other engineers — which is |
+| why almost no technology ever works.     |
+|                                          |
+\ - John Cleese                            /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-04T04:42:18.692Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-05T04:42:17.023Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
