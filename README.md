@@ -7,20 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ This is the whole point of technology. It  \
-| creates an appetite for immortality on the |
-| one hand. It threatens universal           |
-| extinction on the other. Technology is     |
-| lust removed from nature.                  |
-|                                            |
-\ - Don DeLillo                              /
- --------------------------------------------
+ _____________________________________
+/ Technology is a word that describes \
+| something that doesn’t work yet.    |
+|                                     |
+\ - Douglas Adams                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-06T04:42:09.754Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-07T04:42:49.054Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
