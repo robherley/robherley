@@ -7,17 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ If you can't explain it simply, you don't \
-| understand it well enough.                |
-|                                           |
-\ - Albert Einstein                         /
- -------------------------------------------
+ _____________________________________
+/ Technology is a word that describes \
+| something that doesn’t work yet.    |
+|                                     |
+\ - Douglas Adams                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-11T04:41:31.771Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-12T04:41:24.523Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
