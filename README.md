@@ -7,17 +7,18 @@
 
 <!-- STARTCOW -->
 ```
- _____________________________________
-/ Technology is a word that describes \
-| something that doesn’t work yet.    |
-|                                     |
-\ - Douglas Adams                     /
- -------------------------------------
+ _________________________________________
+/ Technology… is a queer thing. It brings \
+| you great gifts with one hand, and it   |
+| stabs you in the back with the other.   |
+|                                         |
+\ - Carrie Snow                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-12T04:41:24.523Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-13T04:41:57.919Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
