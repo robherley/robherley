@@ -7,18 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- _________________________________________
-/ Technology… is a queer thing. It brings \
-| you great gifts with one hand, and it   |
-| stabs you in the back with the other.   |
-|                                         |
-\ - Carrie Snow                           /
- -----------------------------------------
+ ____________________________________________
+/ The most technologically efficient machine \
+| that man has ever invented is the book.    |
+|                                            |
+\ - Northrop Frye                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-13T04:41:57.919Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-14T04:41:33.461Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
