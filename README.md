@@ -7,17 +7,16 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Technology presumes there’s just one right \
-| way to do things and there never is.       |
-|                                            |
-\ - Robert M. Pirsig                         /
- --------------------------------------------
+ ________________________________
+/ Ethics change with technology. \
+|                                |
+\ - Larry Niven                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-15T04:41:55.293Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-16T04:41:42.322Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
