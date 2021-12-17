@@ -7,16 +7,19 @@
 
 <!-- STARTCOW -->
 ```
- ________________________________
-/ Ethics change with technology. \
-|                                |
-\ - Larry Niven                  /
- --------------------------------
+ ____________________________________________
+/ The greatest achievement of humanity is    \
+| not its works of art, science, or          |
+| technology, but the recognition of its own |
+| dysfunction.                               |
+|                                            |
+\ - Eckhart Tolle                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-16T04:41:42.322Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-17T04:27:20.813Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
