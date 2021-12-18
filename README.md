@@ -7,19 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The greatest achievement of humanity is    \
-| not its works of art, science, or          |
-| technology, but the recognition of its own |
-| dysfunction.                               |
-|                                            |
-\ - Eckhart Tolle                            /
- --------------------------------------------
+ __________________________________________
+/ The real problem is not whether machines \
+| think but whether men do.                |
+|                                          |
+\ - B. F. Skinner                          /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-17T04:27:20.813Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-18T04:27:29.776Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
