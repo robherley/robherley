@@ -7,17 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ The real problem is not whether machines \
-| think but whether men do.                |
-|                                          |
-\ - B. F. Skinner                          /
- ------------------------------------------
+ _______________________________________
+/ All this modern technology just makes \
+| people try to do everything at once.  |
+|                                       |
+\ - Bill Watterson                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-18T04:27:29.776Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-19T04:27:20.068Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
