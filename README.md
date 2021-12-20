@@ -7,17 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ All this modern technology just makes \
-| people try to do everything at once.  |
-|                                       |
-\ - Bill Watterson                      /
- ---------------------------------------
+ ___________________________________________
+/ If you can't explain it simply, you don't \
+| understand it well enough.                |
+|                                           |
+\ - Albert Einstein                         /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-19T04:27:20.068Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-20T04:27:30.515Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
