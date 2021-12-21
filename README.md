@@ -7,17 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ If you can't explain it simply, you don't \
-| understand it well enough.                |
-|                                           |
-\ - Albert Einstein                         /
- -------------------------------------------
+ ____________________________________________
+/ Technology… the knack of so arranging the  \
+| world that we don’t have to experience it. |
+|                                            |
+\ - Max Frisch                               /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-20T04:27:30.515Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-21T04:27:27.973Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
