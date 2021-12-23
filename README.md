@@ -7,17 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Technology… the knack of so arranging the  \
-| world that we don’t have to experience it. |
-|                                            |
-\ - Max Frisch                               /
- --------------------------------------------
+ ___________________________________________
+/ Technology is anything that wasn’t around \
+| when you were born.                       |
+|                                           |
+\ - Man Ray                                 /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-22T04:27:25.480Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-23T04:27:30.561Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
