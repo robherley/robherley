@@ -8,10 +8,12 @@
 <!-- STARTCOW -->
 ```
  ___________________________________________
-/ Technology is anything that wasn’t around \
-| when you were born.                       |
+/ I think that novels that leave out        \
+| technology misrepresent life as badly as  |
+| Victorians misrepresented life by leaving |
+| out sex.                                  |
 |                                           |
-\ - Man Ray                                 /
+\ - Kurt Vonnegut                           /
  -------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -19,5 +21,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-23T04:27:30.561Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-24T04:27:25.509Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
