@@ -7,19 +7,18 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ I think that novels that leave out        \
-| technology misrepresent life as badly as  |
-| Victorians misrepresented life by leaving |
-| out sex.                                  |
-|                                           |
-\ - Kurt Vonnegut                           /
- -------------------------------------------
+ ____________________________________________
+/ Technological progress has merely provided \
+| us with more efficient means for going     |
+| backwards.                                 |
+|                                            |
+\ - Aldous Huxley                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-24T04:27:25.509Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-25T04:27:24.272Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
