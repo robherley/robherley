@@ -7,18 +7,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Technological progress has merely provided \
-| us with more efficient means for going     |
-| backwards.                                 |
-|                                            |
-\ - Aldous Huxley                            /
- --------------------------------------------
+ __________________________________________
+/ Programs must be written for people to   \
+| read, and only incidentally for machines |
+| to execute.                              |
+|                                          |
+\ - Hal Abelson                            /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-25T04:27:24.272Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-26T04:27:27.415Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
