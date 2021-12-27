@@ -7,17 +7,20 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ Computers are like bikinis. They save \
-| people a lot of guesswork.            |
-|                                       |
-\ - Sam Ewing                           /
- ---------------------------------------
+ ___________________________________________
+/ The problem with Google is you have 360   \
+| degrees of omnidirectional information on |
+| a linear basis, but the algorithms for    |
+| irony and ambiguity are not there. And    |
+| those are the algorithms of wisdom.       |
+|                                           |
+\ - William Hurt                            /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-27T04:27:30.338Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-27T07:09:34.790Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
