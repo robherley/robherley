@@ -7,20 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ The problem with Google is you have 360   \
-| degrees of omnidirectional information on |
-| a linear basis, but the algorithms for    |
-| irony and ambiguity are not there. And    |
-| those are the algorithms of wisdom.       |
-|                                           |
-\ - William Hurt                            /
- -------------------------------------------
+ _______________________________________
+/ Humanity is acquiring all the right   \
+| technology for all the wrong reasons. |
+|                                       |
+\ - Buckminster Fuller                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-27T07:09:34.790Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-28T04:27:24.999Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
