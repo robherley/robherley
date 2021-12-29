@@ -7,17 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ Humanity is acquiring all the right   \
-| technology for all the wrong reasons. |
-|                                       |
-\ - Buckminster Fuller                  /
- ---------------------------------------
+ ___________________________________________
+/ We are stuck with technology when what we \
+| really want is just stuff that works.     |
+|                                           |
+\ - Douglas Adams                           /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-28T04:27:24.999Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-29T04:27:25.043Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
