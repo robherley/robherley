@@ -7,17 +7,20 @@
 
 <!-- STARTCOW -->
 ```
- ___________________________________________
-/ We are stuck with technology when what we \
-| really want is just stuff that works.     |
-|                                           |
-\ - Douglas Adams                           /
- -------------------------------------------
+ ____________________________________________
+/ Technology is nothing. What’s important is \
+| that you have a faith in people, that      |
+| they’re basically good and smart, and if   |
+| you give them tools, they’ll do wonderful  |
+| things with them.                          |
+|                                            |
+\ - Steve Jobs                               /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-29T04:27:25.043Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-30T04:27:28.449Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
