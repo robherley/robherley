@@ -8,13 +8,10 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ Technology is nothing. What’s important is \
-| that you have a faith in people, that      |
-| they’re basically good and smart, and if   |
-| you give them tools, they’ll do wonderful  |
-| things with them.                          |
+/ Technology presumes there’s just one right \
+| way to do things and there never is.       |
 |                                            |
-\ - Steve Jobs                               /
+\ - Robert M. Pirsig                         /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -22,5 +19,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2021-12-30T04:27:28.449Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2021-12-31T04:27:27.946Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
