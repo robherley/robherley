@@ -7,17 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ It is through science that we prove, but \
-| through intuition that we discover.      |
-|                                          |
-\ - Henri Poincaré                         /
- ------------------------------------------
+ ____________________________________________
+/ The most technologically efficient machine \
+| that man has ever invented is the book.    |
+|                                            |
+\ - Northrop Frye                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-02T04:27:26.667Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-03T04:27:31.469Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
