@@ -7,17 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The most technologically efficient machine \
-| that man has ever invented is the book.    |
-|                                            |
-\ - Northrop Frye                            /
- --------------------------------------------
+ _______________________________________
+/ Technology is teaching us to be human \
+| again.                                |
+|                                       |
+\ - Simon Mainwaring                    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-03T04:27:31.469Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-04T04:27:27.111Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
