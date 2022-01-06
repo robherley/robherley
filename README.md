@@ -7,20 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ This is the whole point of technology. It  \
-| creates an appetite for immortality on the |
-| one hand. It threatens universal           |
-| extinction on the other. Technology is     |
-| lust removed from nature.                  |
-|                                            |
-\ - Don DeLillo                              /
- --------------------------------------------
+ __________________________________________
+/ The real problem is not whether machines \
+| think but whether men do.                |
+|                                          |
+\ - B. F. Skinner                          /
+ ------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-05T04:27:37.377Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-06T04:27:34.623Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
