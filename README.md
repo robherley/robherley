@@ -7,17 +7,18 @@
 
 <!-- STARTCOW -->
 ```
- __________________________________________
-/ The real problem is not whether machines \
-| think but whether men do.                |
-|                                          |
-\ - B. F. Skinner                          /
- ------------------------------------------
+ ___________________________________________
+/ TV and the Internet are good because they \
+| keep stupid people from spending too much |
+| time out in public.                       |
+|                                           |
+\ - Douglas Coupland                        /
+ -------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-06T04:27:34.623Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-07T04:27:30.505Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
