@@ -7,16 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ So much technology, so little talent. \
-|                                       |
-\ - Vernor Vinge                        /
- ---------------------------------------
+ ____________________________________________
+/ Technology presumes there's just one right \
+| way to do things and there never is.       |
+|                                            |
+\ - Robert M. Pirsig                         /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-10T04:27:33.326Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-11T04:27:26.015Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
