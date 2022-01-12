@@ -8,10 +8,11 @@
 <!-- STARTCOW -->
 ```
  ____________________________________________
-/ Technology presumes there's just one right \
-| way to do things and there never is.       |
+/ Just because something doesn't do what you \
+| planned it to do doesn't mean it's         |
+| useless.                                   |
 |                                            |
-\ - Robert M. Pirsig                         /
+\ - Thomas Edison                            /
  --------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -19,5 +20,5 @@
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-11T04:27:26.015Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-12T04:27:29.125Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
