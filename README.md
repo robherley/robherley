@@ -7,18 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- _________________________________________
-/ Technology… is a queer thing. It brings \
-| you great gifts with one hand, and it   |
-| stabs you in the back with the other.   |
-|                                         |
-\ - Carrie Snow                           /
- -----------------------------------------
+ ____________________________________________
+/ The art challenges the technology, and the \
+| technology inspires the art.               |
+|                                            |
+\ - John Lasseter                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-13T04:27:25.744Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-13T05:23:09.000Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
