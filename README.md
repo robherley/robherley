@@ -7,18 +7,18 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ Just because something doesn't do what you \
-| planned it to do doesn't mean it's         |
-| useless.                                   |
-|                                            |
-\ - Thomas Edison                            /
- --------------------------------------------
+ _________________________________________
+/ Technology… is a queer thing. It brings \
+| you great gifts with one hand, and it   |
+| stabs you in the back with the other.   |
+|                                         |
+\ - Carrie Snow                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-12T04:27:29.125Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-13T04:27:25.744Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
