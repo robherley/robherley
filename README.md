@@ -7,17 +7,16 @@
 
 <!-- STARTCOW -->
 ```
- ____________________________________________
-/ The art challenges the technology, and the \
-| technology inspires the art.               |
-|                                            |
-\ - John Lasseter                            /
- --------------------------------------------
+ ________________________________
+/ Ethics change with technology. \
+|                                |
+\ - Larry Niven                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-13T05:23:09.000Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-14T04:27:32.029Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
