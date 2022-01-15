@@ -7,16 +7,18 @@
 
 <!-- STARTCOW -->
 ```
- ________________________________
-/ Ethics change with technology. \
-|                                |
-\ - Larry Niven                  /
- --------------------------------
+ _________________________________________
+/ Technology… is a queer thing. It brings \
+| you great gifts with one hand, and it   |
+| stabs you in the back with the other.   |
+|                                         |
+\ - Carrie Snow                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-14T04:27:32.029Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-15T04:27:24.853Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
