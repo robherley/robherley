@@ -7,17 +7,18 @@
 
 <!-- STARTCOW -->
 ```
- _______________________________________
-/ Technology is teaching us to be human \
-| again.                                |
-|                                       |
-\ - Simon Mainwaring                    /
- ---------------------------------------
+ ____________________________________________
+/ Just because something doesn't do what you \
+| planned it to do doesn't mean it's         |
+| useless.                                   |
+|                                            |
+\ - Thomas Edison                            /
+ --------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-16T04:27:21.793Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-17T04:27:36.052Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
