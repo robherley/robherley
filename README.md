@@ -7,16 +7,17 @@
 
 <!-- STARTCOW -->
 ```
- ________________________________
-/ Ethics change with technology. \
-|                                |
-\ - Larry Niven                  /
- --------------------------------
+ ________________________________________
+/ It's supposed to be automatic, but     \
+| actually you have to push this button. |
+|                                        |
+\ - John Brunner                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
-<sub>Updated at 2022-01-18T04:27:33.819Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
+<sub>Updated at 2022-01-19T04:27:02.412Z, see the [workflow](https://github.com/robherley/robherley/blob/main/.github/workflows/moo.yml). Random tech quotes from [Quotable](https://github.com/lukePeavey/quotable) API.</sub>
 <!-- ENDCOW -->
