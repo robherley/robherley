@@ -14,6 +14,15 @@ jobs:
       - run: |
           deno run --allow-net --allow-read --allow-write update-posts.ts
       - run: |
+          git diff --exit-code
+          if [ $? -eq 0 ]
+          then
+            echo "skip_commit=true" >> $GITHUB_ENV
+          else
+            echo "skip_commit=false" >> $GITHUB_ENV
+          fi
+      - if: ${{ !env.skip_commit }}
+        run: |
           git add README.md
           git config --global user.email actions@github.com
           git config --global user.name github-actions
