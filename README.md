@@ -18,9 +18,9 @@
 
 ### 📝 recent blog posts
 <!-- STARTBLOG -->
+- **`03-06-2022`** · [Rewriting tiny.coffee to < 100 lines of Go](https://blog.reb.gg/posts/07-go-tiny-coffee/)
 - **`01-14-2022`** · [Homelab Part VI: Terraforming Proxmox](https://blog.reb.gg/posts/06-homelab-pt6/)
 - **`01-13-2022`** · [Homelab Part V: Proxmox VMs and cloud-init](https://blog.reb.gg/posts/05-homelab-pt5/)
 - **`01-12-2022`** · [Homelab Part IV: Proxmox Dynamic Inventory and LXC Templates](https://blog.reb.gg/posts/04-homelab-pt4/)
 - **`01-11-2022`** · [Homelab Part III: Automation with Ansible and Hardening Access](https://blog.reb.gg/posts/03-homelab-pt3/)
-- **`01-10-2022`** · [Homelab Part II: Proxmox cluster, ZFS and NFS](https://blog.reb.gg/posts/02-homelab-pt2/)
 <!-- ENDBLOG -->
