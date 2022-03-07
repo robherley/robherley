@@ -14,12 +14,10 @@ jobs:
       - run: |
           deno run --allow-net --allow-read --allow-write update-posts.ts
       - run: |
-          git diff --exit-code
-          if [ $? -eq 0 ]
-          then
-            echo "skip_commit=true" >> $GITHUB_ENV
+          if git diff --exit-code > /dev/null 2>&1; then
+            echo "skip_commit=true"
           else
-            echo "skip_commit=false" >> $GITHUB_ENV
+            echo "skip_commit=false"
           fi
       - if: ${{ !env.skip_commit }}
         run: |
