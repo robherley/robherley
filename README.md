@@ -5,8 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-robherley-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/robherley/)](https://twitter.com/robherley)
 [![Instagram Badge](https://img.shields.io/badge/-robherley-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/robherley/)](https://instagram.com/robherley)
 [![Linkedin Badge](https://img.shields.io/badge/-robherley-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robherley/)](https://www.linkedin.com/in/robherley/)
-![Repos Badge](https://badges.pufler.dev/repos/robherley?style=flat-square)
-![Visits Badge](https://badges.pufler.dev/visits/robherley/robherley?style=flat-square)
 
 ### 🔍 whoami
 
