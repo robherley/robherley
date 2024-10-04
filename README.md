@@ -6,11 +6,7 @@
 
 ### 🔍 whoami
 
-- 💻 I'm a Software Engineer working on [GitHub Actions](https://github.com/actions).
-- 🏫 I'm a graduate from [Stevens Institute of Technology](https://www.stevens.edu/).
-- 💬 Ask me about JavaScript, React, Go, Kubernetes, Containerization or Virtualization.
-- 🦀 I will attempt to rewrite everything in Rust.
-- 🐱 I have two cats, Lumos and Nox.
+👋 I'm a Senior Software Engineer at [GitHub](https://github.com/) working on an awesome product called [Actions](https://github.com/actions).
 
 ### 💾 projects
 
