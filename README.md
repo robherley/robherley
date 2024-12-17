@@ -15,3 +15,4 @@
 - ☕ [tiny.coffee](https://github.com/robherley/tiny.coffee): bringing a hot cup of joe to terminals everywhere
 - 🧬 [game-of-life](https://github.com/robherley/game-of-life): conway's game of life as a service
 - 🕹️ [reb-gb](https://github.com/robherley/reb-gb): (wip) an original gameboy emulator, written in rust
+- 🤖 [sendibot](https://github.com/robherley/sendibot): notify sendico product updates to discord
