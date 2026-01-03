@@ -6,7 +6,7 @@
 
 ### 🔍 whoami
 
-👋 I'm a Senior Software Engineer at [GitHub](https://github.com/) working on an awesome product called [Actions](https://github.com/actions).
+I write code at [Vercel](https://vercel.com/), I used to write code at [GitHub](https://github.com) and [IBM](https://ibm.com).
 
 ### 💾 projects
 
