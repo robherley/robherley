@@ -16,3 +16,4 @@ I write code at [Vercel](https://vercel.com/), I used to write code at [GitHub](
 - 🧬 [game-of-life](https://github.com/robherley/game-of-life): conway's game of life as a service
 - 🕹️ [reb-gb](https://github.com/robherley/reb-gb): (wip) an original gameboy emulator, written in rust
 - 🤖 [sendibot](https://github.com/robherley/sendibot): notify sendico product updates to discord
+- 🌋 [lava.watch](https://github.com/robherley/lava.watch): a lava lamp in your terminal
