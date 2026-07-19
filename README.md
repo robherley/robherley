@@ -17,3 +17,4 @@ I write code at [Vercel](https://vercel.com/), I used to write code at [GitHub](
 - 🕹️ [reb-gb](https://github.com/robherley/reb-gb): (wip) an original gameboy emulator, written in rust
 - 🤖 [sendibot](https://github.com/robherley/sendibot): notify sendico product updates to discord
 - 🌋 [lava.watch](https://github.com/robherley/lava.watch): a lava lamp in your terminal
+- 🔦 [etherlighter](https://github.com/robherley/etherlighter): illuminate your UniFi gear
