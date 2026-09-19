@@ -11,7 +11,9 @@ I write code at [Vercel](https://vercel.com/), I used to write code at [GitHub](
 ### 💾 projects
 
 - ✂️ [snips.sh](https://github.com/robherley/snips.sh): an anonymous SSH-powered pastebin with a human-friendly TUI and web UI
+- 💻 [emulate.computer](https://github.com/robherley/emulate.computer): An emulated RISC-V Linux computer in your browser.
 - 🧪 [go-test-action](https://github.com/robherley/go-test-action): action to run `go test` with rich summary output and annotations.
+- 💧 [fluid](https://github.com/robherley/fluid): a fun WebGPU fluid simulation
 - ☕ [tiny.coffee](https://github.com/robherley/tiny.coffee): bringing a hot cup of joe to terminals everywhere
 - 🧬 [game-of-life](https://github.com/robherley/game-of-life): conway's game of life as a service
 - 🕹️ [reb-gb](https://github.com/robherley/reb-gb): (wip) an original gameboy emulator, written in rust
